@@ -1,4 +1,3 @@
-
 import json
 
 soubor = open('zony.json', encoding='utf-8')
